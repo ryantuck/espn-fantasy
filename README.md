@@ -13,7 +13,7 @@ make install    # installs jq, htmlq
 
 ### 1 - Fetch data
 
-Log in on a desktop browser and copy the html content from each week into its own file, .e.g. `weeks/week-03.html`.
+Log in on a desktop browser and copy the html content from each week into its own file in the `raw/` directory, .e.g. `raw/week-03.html`.
 
 This is automatable but requires fiddling with cookies etc. Manual pulling using Chrome Devtools > Elements > right click `<body>` > Copy Element is easy enough.
 
